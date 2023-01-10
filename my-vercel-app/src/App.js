@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React avec toi et moi pour nous tralala loulou.
+          Learn React avec toi et moi pour nous tralala loulou hein fifi.
         </a>
       </header>
     </div>
